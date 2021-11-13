@@ -1,0 +1,61 @@
+{
+  "pages": [
+    "pages/homepage/index",
+    "pages/homepage/business/list/details/index",
+    "pages/homepage/business/list/index",
+    "pages/homepage/business/index",
+    "pages/homepage/establish/index",
+    "pages/homepage/establish/details/index",
+    "pages/homepage/finance/index",
+    "pages/homepage/finance/details/index",
+    "pages/homepage/volunteer/index",
+    "pages/homepage/volunteer/details/index",
+    "pages/homepage/Youjun/index",
+    "pages/homepage/Youjun/details/index",
+    "pages/homepage/service/index",
+    "pages/homepage/service/details/index",
+    "pages/search/result/index",
+    "pages/study/learningLnowledge/index",
+    "pages/search/index",
+    "pages/details/index",
+    "pages/my/index",
+    "pages/activity/index",
+    "pages/study/index",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "selectedColor": "#2789D8",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/homepage/index",
+        "text": "首页",
+        "iconPath": "static/Icon/icon_1g4cljd522x/index.png",
+        "selectedIconPath": "static/Icon/icon_n3ku9rtfima/index.png"
+      },
+      {
+        "pagePath": "pages/study/index",
+        "text": "学习",
+        "iconPath": "static/Icon/icon_1g4cljd522x/xuexi.png",
+        "selectedIconPath": "static/Icon/icon_n3ku9rtfima/xuexi.png"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "text": "我的",
+        "iconPath": "static/Icon/icon_1g4cljd522x/wode2.png",
+        "selectedIconPath": "static/Icon/icon_n3ku9rtfima/wode2.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}
